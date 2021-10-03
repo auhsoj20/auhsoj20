@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @auhsoj20
+- 👀 I’m interested in Cars & Programming
+- 🌱 I’m currently learning Python
