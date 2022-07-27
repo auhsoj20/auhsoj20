@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @auhsoj20 ( Joshua Stierl )
+- 👋 Hi, I’m Joshua Stierl
 - 👀 I’m interested in Cars & Programming
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning React
 -  :v: My main language is ABAP
