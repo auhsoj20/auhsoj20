@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joshua Stierl
+- 👋 Hi, I’m Joshua
 - 👀 I’m interested in Cars & Programming
 - 🌱 I’m currently learning React, Python & MySQL
 -  :v: My main language is ABAP
